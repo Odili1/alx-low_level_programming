@@ -5,7 +5,7 @@
 /**
  *main - Entry point
  *it excutes and print it
- *Return : Always 0 (Success/correct)
+ *Return: Always 0 (Success/correct)
  */
 
 int main(void)
