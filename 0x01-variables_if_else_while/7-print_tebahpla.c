@@ -1,3 +1,4 @@
+#include <stdio.h>
 /**
  *main - Entry point
  *
@@ -6,8 +7,7 @@
 int main(void)
 {
 char alphabet;
-
-for (alphabet = 12; alphabet >= 97; alphabet--)
+for (alphabet = 122; alphabet >= 97; alphabet--)
 {
 putchar(alphabet);
 }
