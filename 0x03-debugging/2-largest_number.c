@@ -2,8 +2,8 @@
 
 /**
  * largest number - returns the largest of 3 numbers
- * @a: fist integer
- * @b: secong integer
+ * @a: first integer
+ * @b: second integer
  * @c: third integer
  * Return: largest number
  */
