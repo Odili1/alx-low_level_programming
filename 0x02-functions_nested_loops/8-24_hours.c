@@ -4,7 +4,7 @@
  * @void - no argument
  */
 
-void back_bauer(void)
+void jack_bauer(void)
 {
 	int i, j;
 
