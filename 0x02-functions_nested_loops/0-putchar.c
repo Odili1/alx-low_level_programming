@@ -7,13 +7,13 @@
  */
 int main(void)
 {
-	char Odili[] = "_putchar";
+	char ermias[] = "_putchar";
 
 	int c;
 
 	for (c = 0; c < 8; c++)
 	{
-		_putchar(Odili[c]);
+		_putchar(ermias[c]);
 	}
 	_putchar('\n');
 	return (0);
